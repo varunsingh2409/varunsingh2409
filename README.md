@@ -191,8 +191,8 @@ status         : ACTIVELY LEARNING — ALWAYS BUILDING
 <div align="center">
 
 <a href="https://github.com/varunsingh2409">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunsingh2409&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsingh2409&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=varunsingh2409&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=varunsingh2409&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </a>
 
 </div>
@@ -223,7 +223,7 @@ status         : ACTIVELY LEARNING — ALWAYS BUILDING
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varunsingh2409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=varunsingh2409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
