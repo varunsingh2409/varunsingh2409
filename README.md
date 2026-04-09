@@ -86,9 +86,9 @@ $ ./status.sh --verbose
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunsingh2409/varunsingh2409/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunsingh2409/varunsingh2409/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/varunsingh2409/varunsingh2409/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -191,8 +191,8 @@ status         : ACTIVELY LEARNING — ALWAYS BUILDING
 <div align="center">
 
 <a href="https://github.com/varunsingh2409">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=varunsingh2409&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=varunsingh2409&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=varunsingh2409&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=varunsingh2409&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </a>
 
 </div>
@@ -293,4 +293,3 @@ PING varun (mail.relay) — SMTP ready, awaiting transmission
 </div>
 
 <!-- EOF — Portfolio OS v2.0 // varunsingh2409 -->
-```
